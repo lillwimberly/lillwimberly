@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on a redisgn of my portfolio page.
 - 🌱 I’m currently learning Next.js.
-- 🌎 I’m looking to collaborate on anything to benefit our planet and any of its creatures.
 - 📫 How to reach me: lillianwimberly@gmail.com
 - 😄 Pronouns: she/her
 - 🎨 Fun fact: I used to install world famous art for a living.
