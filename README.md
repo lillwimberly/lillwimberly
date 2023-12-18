@@ -1,6 +1,5 @@
 ### Hi there bud - I'm Lill 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a redisgn of my portfolio page.
 - 🌱 I’m currently learning next.js.
