@@ -3,7 +3,7 @@
 ### Frontend / Fullstack Develeoper
 
 - 🔭 I’m currently working on a redisgn of my portfolio page.
-- 🌱 I’m currently learning Next.js.
+- 🌱 Next, I want to learn... Next.js
 - 📫 How to reach me: lillianwimberly@gmail.com
 - 😄 Pronouns: she/her
 - 🎨 Fun fact: I used to install world famous art for a living.
